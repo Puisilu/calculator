@@ -24,14 +24,4 @@ document.querySelector('#t').value=string}
     })
 
 
-    let str="hello";
-   
-    
-    console.log(str.split("").reverse().join(""))
-
-
-    const arr=[1,2,3,4,5,6,5,4,1,3,4,6,7,9,8]
-    
-    const newar= [...new Set(arr)]
-    console.log('new '+newar)
     
